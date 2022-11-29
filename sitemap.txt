@@ -1,2 +1,3 @@
+http://example.com/music/index.html
 http://example.com/2022/11/27/to-my-lover/
 http://example.com/
